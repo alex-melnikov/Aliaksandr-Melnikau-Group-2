@@ -36,6 +36,12 @@ public class CustomClassLoader extends ClassLoader {
     }
 
     @Override
+    protected Class<?> loadClass(String name, boolean resolve) throws ClassNotFoundException {
+        LOGGER.info("Zashel");
+        return super.loadClass(name, resolve);
+    }
+
+    @Override
     protected Class<?> findClass(String name) throws ClassNotFoundException {
         LOGGER.info("Finding class - " + name);
         Class result = (Class) classes.get(name); //checks in cached classes
@@ -56,8 +62,7 @@ public class CustomClassLoader extends ClassLoader {
 
         if (classByte == null) {
             LOGGER.info("Nothing to find in jar file");
-            new ClassNotFoundException();
-            return null;
+            throw new ClassNotFoundException();
         }
         result = defineClass(name, classByte, 0, classByte.length, null);
         classes.put(name, result);
