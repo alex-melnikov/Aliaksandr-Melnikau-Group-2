@@ -21,8 +21,8 @@ public class ClassLoaderRunner {
 
     public static final Logger LOGGER = Logger.getLogger(ClassLoaderRunner.class);
 
-    private static final String FIRST_FILE_NAME = "jar/FirstJarFile.jar";
-    private static final String SECOND_FILE_NAME = "jar/SecondJarFile.jar";
+    private static final String FIRST_FILE_NAME = "jar/TestJar1.jar";
+    private static final String SECOND_FILE_NAME = "jar/TestJar2.jar";
     private static final String FIRST_CLASS_NAME = "com.epam.jmp.classloader.FirstTestModule";
     private static final String SECOND_CLASS_NAME = "com.epam.jmp.classloader.SecondTestModule";
 
@@ -74,8 +74,9 @@ public class ClassLoaderRunner {
                         }
                         System.out.println("Please choose class:");
                         String className = getStringInput(br).replace('/', '.');
+                        ClassLoader loader3 = new CustomClassLoader(pathToJar);
                         //className = className.replace('/', '.');
-                        Class clazz = loader1.loadClass(className);
+                        Class clazz = loader3.loadClass(className);
                         Method[] m = clazz.getDeclaredMethods();
                         System.out.println("All methods of class:");
                         for (int i = 0; i < m.length; i++){
