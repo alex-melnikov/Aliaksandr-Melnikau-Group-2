@@ -85,6 +85,8 @@ public final class JarResources {
                 // add to internal resource hashtable
                 htJarContents.put(ze.getName(), b);
             }
+            fis.close();
+            bis.close();
         } catch (NullPointerException e) {
             System.out.println("done.");
         } catch (FileNotFoundException e) {

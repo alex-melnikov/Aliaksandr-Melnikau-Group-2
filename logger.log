@@ -685,3 +685,1657 @@
 2014-10-06 11:48:21 INFO  ClassLoaderRunner:118 - com.epam.jmp.classloader.FirstTestModule@4279ae24
 2014-10-06 11:48:21 INFO  ClassLoaderRunner:118 - com.epam.jmp.classloader.FirstTestModule@4297df94
 2014-10-06 11:48:30 INFO  ClassLoaderRunner:90 - Can't find JAR file by path - f
+2014-10-06 13:12:16 INFO  CustomClassLoader:46 - Finding class - FirstTestModule
+2014-10-06 13:12:16 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 13:13:04 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 13:13:04 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 13:13:04 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 13:13:04 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 13:13:08 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 13:13:08 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 13:21:39 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 13:21:39 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 13:21:39 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 13:21:39 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 13:21:39 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 13:21:39 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 13:21:39 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@6894691f
+2014-10-06 13:21:40 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.SecondTestModule
+2014-10-06 13:21:40 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 13:21:40 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 13:21:40 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 13:21:40 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 13:21:40 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 13:21:40 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@34ac3c11
+2014-10-06 13:21:40 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@179b9b1b
+2014-10-06 13:21:41 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@1bddf367
+2014-10-06 13:21:42 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 13:21:42 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 13:21:42 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 13:21:42 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 13:21:42 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 13:21:42 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 13:21:42 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@5143f787
+2014-10-06 13:21:43 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 13:21:43 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 13:21:43 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 13:21:43 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 13:21:43 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 13:21:43 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 13:21:43 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@4279ae24
+2014-10-06 13:22:04 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 13:22:04 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 13:22:04 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 13:22:04 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 13:22:11 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 13:22:11 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 16:51:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 16:51:27 INFO  CustomClassLoader:56 - Class not found in
+2014-10-06 16:51:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 16:51:27 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 16:51:27 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 16:51:27 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 16:51:27 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7133919a
+2014-10-06 16:51:45 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@709c4f85
+2014-10-06 16:52:52 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 16:52:52 INFO  CustomClassLoader:60 - Class not found in
+2014-10-06 16:52:52 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 16:52:52 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 16:52:52 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 16:52:52 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 16:52:52 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@6781a7dc
+2014-10-06 16:52:57 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@709c4f85
+2014-10-06 16:58:47 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 16:58:47 INFO  CustomClassLoader:58 - Class not found in system class loader
+2014-10-06 16:58:47 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 16:58:47 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 16:58:47 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 16:58:47 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 16:58:47 INFO  CustomClassLoader:68 - Class was add to cash of system class loader
+2014-10-06 16:58:47 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 16:58:47 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 16:58:47 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 16:58:47 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 16:58:47 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2628de85
+2014-10-06 17:00:46 INFO  ClassLoaderRunner:91 - Can't find JAR file by path - f
+2014-10-06 17:00:46 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:00:46 INFO  CustomClassLoader:58 - Class not found in system class loader
+2014-10-06 17:00:46 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:00:46 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 17:00:46 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:00:46 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 17:00:46 INFO  CustomClassLoader:69 - Class was add to cash of system class loader
+2014-10-06 17:00:46 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:00:46 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 17:00:46 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:00:46 INFO  CustomClassLoader:55 - Class found in system class loader
+2014-10-06 17:00:46 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@5c8163c6
+2014-10-06 17:01:39 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:01:39 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:01:39 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:01:39 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:01:39 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:01:39 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:01:39 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of system class loader
+2014-10-06 17:01:39 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:01:39 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:01:39 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:01:39 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:01:39 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7133919a
+2014-10-06 17:02:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:02:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:02:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:02:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:02:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:02:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:02:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:02:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:02:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:02:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:02:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:02:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7133919a
+2014-10-06 17:05:07 INFO  ClassLoaderRunner:91 - Can't find JAR file by path - e
+2014-10-06 17:26:24 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:24 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:24 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:24 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:24 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:24 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:24 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:24 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:24 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:24 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:24 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:24 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@45290155
+2014-10-06 17:26:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:31 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:31 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:31 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:31 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:31 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:31 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:31 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:31 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:31 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:31 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4605a23b
+2014-10-06 17:26:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:32 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:32 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:32 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:32 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:32 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:32 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:32 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:32 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:32 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:32 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@725bf9cf
+2014-10-06 17:26:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:33 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:33 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:33 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:33 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:33 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:33 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:33 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:33 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:33 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:33 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4c9b1e15
+2014-10-06 17:26:34 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:34 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:34 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:34 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:34 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:34 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:34 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:34 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:34 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:34 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:34 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:34 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@d78fb4
+2014-10-06 17:26:46 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:46 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:46 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:46 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:46 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:46 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:46 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:46 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:46 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:46 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:46 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:46 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@20c0e18b
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:47 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:47 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@6e843edc
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:47 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:47 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:47 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:47 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@50e0de15
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:48 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:48 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@3b3eb5bd
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:48 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:48 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:48 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:48 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@149be3aa
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:49 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:49 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@34e51b72
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:49 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:49 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:49 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:49 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@3ebc7a23
+2014-10-06 17:26:50 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:50 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:50 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:50 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:50 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:50 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:50 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:50 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:50 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:50 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:50 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:50 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@62ad191
+2014-10-06 17:26:51 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:26:51 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:26:51 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:26:51 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:26:51 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:26:51 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:26:51 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:26:51 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:26:51 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:26:51 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:26:51 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:26:51 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@d324de2
+2014-10-06 17:27:07 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:07 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:07 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:07 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:07 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:07 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:07 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:07 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:07 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:07 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:07 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:07 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@2628de85
+2014-10-06 17:27:08 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:08 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:08 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:08 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:08 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:08 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:08 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:08 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:08 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:08 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:08 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:08 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@65f72a79
+2014-10-06 17:27:09 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:09 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:09 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:09 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:09 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:09 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:09 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:09 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:09 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:09 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:09 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:09 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@70dbdc4b
+2014-10-06 17:27:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:10 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:10 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:10 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:10 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:10 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:10 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:10 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:10 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:10 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:10 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4c9b1e15
+2014-10-06 17:27:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:11 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:11 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:11 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:11 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:11 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:11 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:11 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:11 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:11 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:11 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@d78fb4
+2014-10-06 17:27:12 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:12 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:12 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:12 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:12 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:12 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:12 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:12 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:12 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:12 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:12 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:12 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@20c0e18b
+2014-10-06 17:27:13 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:13 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:13 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:13 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:13 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:13 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:13 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:13 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:13 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:13 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:13 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:13 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@6e843edc
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:14 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:14 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@50e0de15
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:14 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:14 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:14 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:14 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@3b3eb5bd
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:15 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:15 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@149be3aa
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:15 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:15 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:15 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:15 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@34e51b72
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:16 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@3ebc7a23
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:16 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@62ad191
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:16 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@d324de2
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:16 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@50bed4c1
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:16 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:16 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:16 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@7cc5a196
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:17 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@30479326
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:17 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@2a6a4b6
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:17 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@70f4d063
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:17 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@79bc8795
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:17 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@2577d80b
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:17 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@12c042ba
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:18 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@70c74e66
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:18 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@163778cf
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:18 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@194f1541
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:18 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@28892a87
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:18 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4e89cb3b
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:18 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@adea215
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:19 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@17f4d4bd
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:19 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@2ec195e3
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:31 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@2628de85
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:31 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@65f72a79
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:31 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@70dbdc4b
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:31 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:31 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:31 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@452fe9bf
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:32 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4297df94
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:32 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4594a0ad
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:32 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4e253bf8
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:32 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@4b1addf0
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:32 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:32 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:32 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@1f21112
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:33 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@149be3aa
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:33 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@34e51b72
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:33 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@3ebc7a23
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:33 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:33 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:33 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@62ad191
+2014-10-06 17:27:34 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:27:34 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:27:34 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:27:34 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:27:34 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:27:34 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:27:34 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:27:34 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:27:34 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:27:34 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:27:34 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:27:34 INFO  ClassLoaderRunner:120 - com.epam.jmp.classloader.FirstTestModule@d324de2
+2014-10-06 17:48:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:48:30 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:48:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:48:30 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:48:30 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:48:30 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:48:30 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:48:30 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:48:30 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:48:30 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:48:30 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:48:30 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@45290155
+2014-10-06 17:48:34 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:48:34 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:48:34 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:48:34 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:48:34 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:48:34 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:48:34 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:48:34 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:48:34 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:48:34 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:48:34 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:48:34 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@4605a23b
+2014-10-06 17:48:51 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:48:51 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:48:51 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:48:51 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:48:51 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:48:51 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:48:51 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:48:51 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:48:51 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:48:51 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:48:51 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:48:51 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@725bf9cf
+2014-10-06 17:49:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:11 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:11 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:11 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:11 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:11 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:11 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:11 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:11 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:11 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:11 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@4c9b1e15
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:17 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@d78fb4
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:17 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@20c0e18b
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:17 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:17 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:17 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:17 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@6e843edc
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@50e0de15
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@3b3eb5bd
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@149be3aa
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@34e51b72
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@3ebc7a23
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@62ad191
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:19 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@d324de2
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:19 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@50bed4c1
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:19 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7cc5a196
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:19 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@30479326
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:19 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2a6a4b6
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:19 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:19 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:19 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@70f4d063
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:20 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:20 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@79bc8795
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:20 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:20 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2577d80b
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:49:20 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:49:20 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:49:20 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:49:20 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@12c042ba
+2014-10-06 17:50:09 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:09 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:09 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:09 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:09 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:09 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:09 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:09 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:09 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:09 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:09 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:09 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@70c74e66
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:10 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@163778cf
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:10 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@194f1541
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:10 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@28892a87
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:10 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:10 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:10 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@4e89cb3b
+2014-10-06 17:50:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:11 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:11 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:11 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:11 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:11 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:11 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:11 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:11 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:11 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:11 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@adea215
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:25 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:25 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@17f4d4bd
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:25 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:25 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:25 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:25 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2ec195e3
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:26 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:26 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@3bba1558
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:26 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:26 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@28246ceb
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:26 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:26 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:26 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:26 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@1da52b3b
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:27 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@176fa1a5
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:27 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@4a4cfc65
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:27 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@346cd0f9
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:27 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:27 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:27 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@75be6a65
+2014-10-06 17:50:28 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:28 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:28 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:28 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:28 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:28 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:28 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:28 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:28 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:28 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:28 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:28 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@fa4033b
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:29 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@6ef2bc8d
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:29 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@222596c1
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:29 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@3d5a1c5f
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:29 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:29 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:29 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7b6bb7b1
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:30 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7f08d052
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:30 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@5973b262
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:30 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@15a8cf03
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:30 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:30 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:30 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@c743b0f
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:35 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:35 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2b27acc3
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:35 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:35 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@5845807a
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:35 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:35 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:35 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:35 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@602b24e6
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:36 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:36 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2b88689a
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:50:36 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:50:36 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:50:36 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:50:36 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7621c3b0
+2014-10-06 17:54:28 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 17:54:28 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 17:54:28 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 17:54:28 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 17:54:28 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 17:54:28 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 17:54:28 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 17:54:28 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 17:54:28 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 17:54:28 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 17:54:28 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 17:54:28 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7133919a
+2014-10-06 17:54:30 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@709c4f85
+2014-10-06 17:54:30 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2628de85
+2014-10-06 17:54:31 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@45290155
+2014-10-06 17:54:31 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@21a3e686
+2014-10-06 17:54:31 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@65f72a79
+2014-10-06 19:55:45 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:55:45 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:55:45 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:55:45 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:55:45 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:55:45 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:55:45 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:55:45 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:55:45 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:55:45 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:55:45 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:55:45 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@564e18d4
+2014-10-06 19:55:49 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@21403290
+2014-10-06 19:55:50 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7db79cfd
+2014-10-06 19:55:51 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.SecondTestModule
+2014-10-06 19:55:51 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.SecondTestModule  not found in system class loader
+2014-10-06 19:55:51 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:55:51 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:55:51 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:55:51 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:55:51 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.SecondTestModule was add to cash of custom class loader
+2014-10-06 19:55:51 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:55:51 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:55:51 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:55:51 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:55:51 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@d78fb4
+2014-10-06 19:55:52 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:55:52 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:55:52 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:55:52 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:55:52 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:55:52 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:55:52 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:55:52 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:55:52 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:55:52 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:55:52 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:55:52 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@20c0e18b
+2014-10-06 19:55:53 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:55:53 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:55:53 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:55:53 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:55:53 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:55:53 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:55:53 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:55:53 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:55:53 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:55:53 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:55:53 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:55:53 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@6e843edc
+2014-10-06 19:56:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:10 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:10 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:10 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:10 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:10 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:10 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:10 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:10 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:10 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:10 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:10 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@50e0de15
+2014-10-06 19:56:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:11 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:11 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:11 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:11 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:11 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:11 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:11 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:11 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:11 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:11 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:11 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@3b3eb5bd
+2014-10-06 19:56:12 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:12 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:12 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:12 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:12 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:12 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:12 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:12 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:12 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:12 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:12 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:12 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@149be3aa
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:13 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:13 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@34e51b72
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:13 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:13 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:13 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:13 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@3ebc7a23
+2014-10-06 19:56:14 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@47f6b002
+2014-10-06 19:56:15 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@149d7837
+2014-10-06 19:56:16 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@6e3f6d73
+2014-10-06 19:56:16 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@62ad191
+2014-10-06 19:56:17 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@652489c0
+2014-10-06 19:56:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@41cfd020
+2014-10-06 19:56:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:18 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:18 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:18 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:18 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:18 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:18 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:18 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:18 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:18 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:18 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:18 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@ea8e5ac
+2014-10-06 19:56:19 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@727e86b8
+2014-10-06 19:56:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:20 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:20 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:20 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:20 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:20 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:20 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:20 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:20 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:20 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:20 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:20 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@5bae0107
+2014-10-06 19:56:20 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@7cc5a196
+2014-10-06 19:56:21 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@12f3bed9
+2014-10-06 19:56:23 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:56:23 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:56:23 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:56:23 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:56:23 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:56:23 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:56:23 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:56:23 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:56:23 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:56:23 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:56:23 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:56:23 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@2b0dbc8d
+2014-10-06 19:58:21 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 19:58:21 INFO  CustomClassLoader:58 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 19:58:21 INFO  CustomClassLoader:46 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 19:58:21 INFO  CustomClassLoader:55 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 19:58:21 INFO  CustomClassLoader:46 - Finding class - java.lang.Object
+2014-10-06 19:58:21 INFO  CustomClassLoader:55 - Class java.lang.Object found in system class loader
+2014-10-06 19:58:21 INFO  CustomClassLoader:69 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 19:58:21 INFO  CustomClassLoader:46 - Finding class - java.lang.System
+2014-10-06 19:58:21 INFO  CustomClassLoader:55 - Class java.lang.System found in system class loader
+2014-10-06 19:58:21 INFO  CustomClassLoader:46 - Finding class - java.io.PrintStream
+2014-10-06 19:58:21 INFO  CustomClassLoader:55 - Class java.io.PrintStream found in system class loader
+2014-10-06 19:58:21 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7133919a
+2014-10-06 20:03:45 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 20:03:45 INFO  CustomClassLoader:52 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 20:03:45 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 20:03:45 INFO  CustomClassLoader:49 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 20:03:45 INFO  CustomClassLoader:40 - Finding class - java.lang.Object
+2014-10-06 20:03:45 INFO  CustomClassLoader:49 - Class java.lang.Object found in system class loader
+2014-10-06 20:03:45 INFO  CustomClassLoader:64 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 20:03:45 INFO  CustomClassLoader:40 - Finding class - java.lang.System
+2014-10-06 20:03:45 INFO  CustomClassLoader:49 - Class java.lang.System found in system class loader
+2014-10-06 20:03:45 INFO  CustomClassLoader:40 - Finding class - java.io.PrintStream
+2014-10-06 20:03:45 INFO  CustomClassLoader:49 - Class java.io.PrintStream found in system class loader
+2014-10-06 20:03:45 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@7133919a
+2014-10-06 20:03:46 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.SecondTestModule
+2014-10-06 20:03:46 INFO  CustomClassLoader:52 - Class com.epam.jmp.classloader.SecondTestModule  not found in system class loader
+2014-10-06 20:03:46 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 20:03:46 INFO  CustomClassLoader:49 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 20:03:46 INFO  CustomClassLoader:40 - Finding class - java.lang.Object
+2014-10-06 20:03:46 INFO  CustomClassLoader:49 - Class java.lang.Object found in system class loader
+2014-10-06 20:03:46 INFO  CustomClassLoader:64 - Class com.epam.jmp.classloader.SecondTestModule was add to cash of custom class loader
+2014-10-06 20:03:46 INFO  CustomClassLoader:40 - Finding class - java.lang.System
+2014-10-06 20:03:46 INFO  CustomClassLoader:49 - Class java.lang.System found in system class loader
+2014-10-06 20:03:46 INFO  CustomClassLoader:40 - Finding class - java.io.PrintStream
+2014-10-06 20:03:46 INFO  CustomClassLoader:49 - Class java.io.PrintStream found in system class loader
+2014-10-06 20:03:46 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@1bddf367
+2014-10-06 20:04:07 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 20:04:07 INFO  CustomClassLoader:52 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 20:04:07 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 20:04:07 INFO  CustomClassLoader:49 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 20:04:07 INFO  CustomClassLoader:40 - Finding class - java.lang.Object
+2014-10-06 20:04:07 INFO  CustomClassLoader:49 - Class java.lang.Object found in system class loader
+2014-10-06 20:04:07 INFO  CustomClassLoader:64 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 20:04:07 INFO  CustomClassLoader:40 - Finding class - java.lang.System
+2014-10-06 20:04:07 INFO  CustomClassLoader:49 - Class java.lang.System found in system class loader
+2014-10-06 20:04:07 INFO  CustomClassLoader:40 - Finding class - java.io.PrintStream
+2014-10-06 20:04:07 INFO  CustomClassLoader:49 - Class java.io.PrintStream found in system class loader
+2014-10-06 20:04:07 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@5143f787
+2014-10-06 20:04:08 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@452fe9bf
+2014-10-06 20:04:10 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@4c9b1e15
+2014-10-06 20:04:11 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.SecondTestModule@5bd41bfd
+2014-10-06 20:04:12 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.FirstTestModule
+2014-10-06 20:04:12 INFO  CustomClassLoader:52 - Class com.epam.jmp.classloader.FirstTestModule  not found in system class loader
+2014-10-06 20:04:12 INFO  CustomClassLoader:40 - Finding class - com.epam.jmp.classloader.ITestModule
+2014-10-06 20:04:12 INFO  CustomClassLoader:49 - Class com.epam.jmp.classloader.ITestModule found in system class loader
+2014-10-06 20:04:12 INFO  CustomClassLoader:40 - Finding class - java.lang.Object
+2014-10-06 20:04:12 INFO  CustomClassLoader:49 - Class java.lang.Object found in system class loader
+2014-10-06 20:04:12 INFO  CustomClassLoader:64 - Class com.epam.jmp.classloader.FirstTestModule was add to cash of custom class loader
+2014-10-06 20:04:12 INFO  CustomClassLoader:40 - Finding class - java.lang.System
+2014-10-06 20:04:12 INFO  CustomClassLoader:49 - Class java.lang.System found in system class loader
+2014-10-06 20:04:12 INFO  CustomClassLoader:40 - Finding class - java.io.PrintStream
+2014-10-06 20:04:12 INFO  CustomClassLoader:49 - Class java.io.PrintStream found in system class loader
+2014-10-06 20:04:12 INFO  ClassLoaderRunner:119 - com.epam.jmp.classloader.FirstTestModule@481b72da
+2014-10-06 20:04:15 INFO  ClassLoaderRunner:91 - Can't find JAR file by path - f

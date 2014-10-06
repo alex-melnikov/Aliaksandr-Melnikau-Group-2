@@ -2,14 +2,8 @@ package com.epam.jmp.classloader;
 
 import org.apache.log4j.Logger;
 
-import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.HashMap;
 import java.util.Map;
-import java.util.jar.JarEntry;
-import java.util.jar.JarFile;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Created by Siarhei_Komlik on 10/3/14.
@@ -19,7 +13,7 @@ public class CustomClassLoader extends ClassLoader {
     public static final Logger LOGGER = Logger.getLogger(CustomClassLoader.class);
 
     /** The HashMap where the classes will be cached */
-    private Map<String, Class<?>> classes = new HashMap<String, Class<?>>();
+    private Map<String, Class<?>> classes = new ConcurrentHashMap<String, Class<?>>();
     private String jarName = "";
 
     public CustomClassLoader(ClassLoader parent) {
@@ -51,18 +45,23 @@ public class CustomClassLoader extends ClassLoader {
         }
 
         try {
-            return findSystemClass(name);
+            result = findSystemClass(name);
+            LOGGER.info("Class " + name + " found in system class loader");
+            return result;
         } catch (Exception e) {
-            LOGGER.info("Class not found in");
+            LOGGER.info("Class " + name + "  not found in system class loader");
         }
         JarResources jr = new JarResources(jarName);
         byte[] classByte = jr.getResource(name.replace('.', '/') + ".class");
 
         if (classByte == null) {
+            LOGGER.info("Nothing to find in jar file");
+            new ClassNotFoundException();
             return null;
         }
         result = defineClass(name, classByte, 0, classByte.length, null);
         classes.put(name, result);
+        LOGGER.info("Class " + name + " was add to cash of custom class loader");
         return result;
     }
 }
