@@ -19,6 +19,7 @@ public class PermGenOOM {
         MemoryClassLoader loader = new MemoryClassLoader();
 
         for (long index = 0; index < Long.MAX_VALUE; index++) {
+            logger.info("Creating new class... ");
             String newClassName = "_" + String.format("%0"
                     + (clazz.getSimpleName().length() - 1) + "d", index);
             byte[] newClassData = new String(buffer, "latin1")
