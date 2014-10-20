@@ -18,7 +18,7 @@ public class HeapOOM {
             v.add(b);
             Runtime rt = Runtime.getRuntime();
 
-            System.out.println("free memory: " + rt.freeMemory());
+            logger.info("free memory: " + rt.freeMemory());
         }
     }
 
