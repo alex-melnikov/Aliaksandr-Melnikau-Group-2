@@ -1,0 +1,1 @@
+java -Xss2m -Xmx1G -Xms1G -XX:SurvivorRatio=5 -jar 4_task1.jar

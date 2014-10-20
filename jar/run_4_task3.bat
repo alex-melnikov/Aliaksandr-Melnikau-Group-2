@@ -1,0 +1,1 @@
+java -XX:MaxPermSize=1m -Xmx10m -jar 4_task3.jar
