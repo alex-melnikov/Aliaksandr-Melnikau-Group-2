@@ -1,0 +1,1 @@
+java -jar 5_task.jar
