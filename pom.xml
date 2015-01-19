@@ -11,6 +11,7 @@
     <modules>
         <module>SpringApp</module>
         <module>SpringMVC</module>
+        <module>jms</module>
     </modules>
 
     <dependencies>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jms="http://www.springframework.org/schema/jms"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="
+    http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/jms http://www.springframework.org/schema/jms/spring-jms.xsd">
+
+	<bean id="jnditemplate" class="org.springframework.jndi.JndiTemplate">
+		<property name="environment">
+			<props>
+				<prop key="java.naming.factory.initial">org.jboss.naming.remote.client.InitialContextFactory
+				</prop>
+				<prop key="java.naming.provider.url">remote://127.0.0.1:4447/</prop>
+				<prop key="java.naming.security.principal">ivan10</prop>
+				<prop key="java.naming.security.credentials">ivan123</prop>
+				<prop
+					key="jboss.naming.client.connect.options.org.xnio.Options.SASL_POLICY_NOPLAINTEXT">false</prop>
+			</props>
+		</property>
+	</bean>
+
+	<bean id="connectionfactory" class="org.springframework.jndi.JndiObjectFactoryBean">
+		<property name="jndiTemplate" ref="jnditemplate" />
+		<property name="jndiName" value="jms/RemoteConnectionFactory" />
+	</bean>
+
+	<bean id="destination" class="org.springframework.jndi.JndiObjectFactoryBean">
+		<property name="jndiTemplate" ref="jnditemplate" />
+		<property name="jndiName" value="/jms/queue/HelloQ" />
+	</bean>
+
+	<bean id="jmstemplate" class="org.springframework.jms.core.JmsTemplate">
+		<property name="connectionFactory" ref="connectionfactory" />
+		<property name="defaultDestination" ref="destination" />
+	</bean>
+
+	<bean id="messageProducer" class="com.epam.jms.producer.SimpleMessageProducer"
+		p:jmsTemplate-ref="jmstemplate" />
+
+</beans>
